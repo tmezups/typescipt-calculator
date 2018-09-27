@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outFile": "../js/app.js"
+    },
+    "extends": "../tsconfig.base",
+    "files": [
+        "./app.ts"
+    ],
+    
+}
